@@ -4,5 +4,6 @@ Dabei wurden zwei Kameraperspektiven, ein mit Maus und Tastatur steuerbarer Spie
 Das Spiel besteht aus drei in der Schwierigkeit ansteigende Level. <br/>
 Das Ziel des Spiels ist es, mit drei Leben vom Start des Levels bis zum Ziel in unter 3 Minuten zu gelangen.
 <h2>Play through Video</h2>
+
 [![Watch the video](http://i3.ytimg.com/vi/t_7HkgWwX-M/maxresdefault.jpg)](https://www.youtube.com/watch?v=t_7HkgWwX-M&feature=youtu.be)
 
